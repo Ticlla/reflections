@@ -31,7 +31,9 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    Fill in your answer here.
+	 
+	 
 What happens whe you initialize a repository? why do you need to do it?
 	a new repository is created, it is made to start the repository and
 	start to work with the multiple version.
