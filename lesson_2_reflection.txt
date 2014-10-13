@@ -1,3 +1,11 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	it is an area to commit something that you have ready to commit, the working area does not consider using the
 	repository so if you want to have  your changes in to a git repository you have to stage it using git add <file>
+
+How can you use the staging area to make sure you have one commit per logical change?
+	runnig git diff to see the change that I have done 
+
+		
+	
+	
+	
