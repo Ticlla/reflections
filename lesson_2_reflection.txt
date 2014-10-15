@@ -6,6 +6,11 @@ How can you use the staging area to make sure you have one commit per logical ch
 	runnig git diff to see the change that I have done 
 
 		
-	
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	it would help to sabe status of development and many of test
+	it also will work very well to develop simultaniusly
+
+How do the diagrams help you visualize the branch structure?
+	that abstraction helps understand about how git commit exactly works, I guess the data extrucure used to do it is a three. so I do not have any problem undestanting it.		
 	
 	
